@@ -3,7 +3,7 @@ using Krooze.EntranceTest.WriteHere.Structure.Model;
 
 namespace Krooze.EntranceTest.WriteHere.Structure.Interfaces
 {
-    interface IGetCruise
+    public interface IGetCruise
     {
         int CruiseCompanyCode { get; }
 
